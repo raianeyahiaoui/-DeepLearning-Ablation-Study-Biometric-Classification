@@ -1,8 +1,8 @@
-# DeepLearning-Ablation-Study-Biometric-Classification
+# 👁️ DeepLearning-Ablation-Study-Biometric-Classification
 
 ## Project Title: Empirical Analysis of DCNN Performance, Efficiency, and Interpretability for High-Class Biometric Classification
 
-### Project Summary
+###  📖 Project Summary
 This repository documents a comprehensive **Ablation Study** focused on optimizing Deep Convolutional Neural Networks (DCNNs) for a challenging 50-class iris recognition task. The research systematically evaluates performance trade-offs, analyzes critical failures (SIFT), implements robust regularization, and benchmarks a lightweight architecture for edge deployment.
 
 The work demonstrates advanced expertise in **Model Debugging, Numerical Stability, Performance Benchmarking, and Explainable AI (XAI)**.
